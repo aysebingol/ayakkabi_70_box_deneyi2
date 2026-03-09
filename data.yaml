@@ -1,0 +1,5 @@
+
+test: /home/aysebingol/70ayakkabiproje/ayakkabi_70_box_deneyi2/test/images
+
+nc: 1
+names: ['ayakkabi']
