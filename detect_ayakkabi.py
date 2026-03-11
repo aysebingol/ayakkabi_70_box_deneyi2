@@ -1,7 +1,6 @@
 from ultralytics import YOLO
 import os
 
-# Yolları senin yapına göre netleştiriyoruz
 model_path = 'box_results/weights/best.pt'
 source_path = 'test/images'
 
